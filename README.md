@@ -11,4 +11,5 @@
 1. [class4 : FileIO & Exceptions ](python401/class4/read4.md)
 1. [Class5 : Intro to OOP](python401/class5/Read5.md)
 1. [class6 : OOP Part02 ](python401/class6/Read6.md)
+1. [class7 : Data Analysis](python401/class7/Read7.md)
 
