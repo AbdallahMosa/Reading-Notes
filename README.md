@@ -12,4 +12,5 @@
 1. [Class5 : Intro to OOP](python401/class5/Read5.md)
 1. [class6 : OOP Part02 ](python401/class6/Read6.md)
 1. [class7 : Data Analysis](python401/class7/Read7.md)
+1. [class8 : Data analysis](python401/class8/Read8.md)
 
