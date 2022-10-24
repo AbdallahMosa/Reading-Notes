@@ -15,3 +15,4 @@
 1. [class8 : Data analysis](python401/class8/Read8.md)
 1. [class9 : Linkedlist ](python401/class9/Read9.md)
 1. [class10 : Linear Regressions ](python401/class10/Read10.md)
+1. [class11: Data Visualization ](python401/class11/Read11.md)
