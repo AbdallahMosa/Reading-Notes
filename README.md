@@ -16,3 +16,4 @@
 1. [class9 : Linkedlist ](python401/class9/Read9.md)
 1. [class10 : Linear Regressions ](python401/class10/Read10.md)
 1. [class11: Data Visualization ](python401/class11/Read11.md)
+1. [class12 : Stack and Queue ](python401/class12/Read12.md)
