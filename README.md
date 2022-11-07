@@ -21,3 +21,4 @@
 1. [ class14 : web Scraping](python401/class14/Read14.md)
 1. [class15 : Tree ](python401/class15/Read15.md)
 1. [class16 : Cryptography ](python401/class16/read16.md)
+1. [class17 : Automation ](python401/class17/Read17.md)
