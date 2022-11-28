@@ -23,3 +23,4 @@
 1. [class16 : Cryptography ](python401/class16/read16.md)
 1. [class17 : Automation ](python401/class17/Read17.md)
 1. [class19 : Django ](python401/Read19/Read19.md)
+1. [class20 ](python401/class20/Read20.md)
