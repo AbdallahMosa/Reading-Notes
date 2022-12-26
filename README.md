@@ -32,3 +32,4 @@
 1. [class27](python401/class27/Read27.md)
 1. [CLASS28](python401/class28/Read28.md)
 1. [CLASS229](python401/class29/Read29.md)
+1. [CLASS31](python401/class31/Read31.md)
