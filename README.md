@@ -35,4 +35,4 @@
 1. [CLASS31](python401/class31/Read31.md)
 1. [class32 intro next and Tailwind CSS](python401/class32/Read32.md)
 1. [class 33 ](class33/Read33.md)
-1.[class34](python401/class34/Read34.md)
+1. [class34](python401/class34/Read34.md)
